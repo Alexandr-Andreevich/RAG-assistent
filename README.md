@@ -1,6 +1,10 @@
 # RAG-assistent (pet project)
 
-[Ссылка на Google Colab](https://colab.research.google.com/drive/1ocyIUlBMBInIPRV-gpANo9nVJvFY5xh0?usp=sharing#scrollTo=c0kCxmA9u0Dm)
+**Перед запуском скачайте docx файл "Инструкция по работе со сварочными материалами и аппаратами"**.
+
+**Убедитесть что у вас есть действующий токен для API Hugging Face**.
+
+Ссылка на RAG-ассистента в [Google Colab](https://colab.research.google.com/drive/1ocyIUlBMBInIPRV-gpANo9nVJvFY5xh0?usp=sharing#scrollTo=c0kCxmA9u0Dm)
 
 ## 1. **Нейро-помощник в роли главного сварщика.**
 
