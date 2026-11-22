@@ -1,6 +1,6 @@
 # RAG-assistent (pet project)
 
-[GitHub](https://colab.research.google.com/drive/1ocyIUlBMBInIPRV-gpANo9nVJvFY5xh0?usp=sharing#scrollTo=c0kCxmA9u0Dm)
+[Ссылка на GoogleCollab](https://colab.research.google.com/drive/1ocyIUlBMBInIPRV-gpANo9nVJvFY5xh0?usp=sharing#scrollTo=c0kCxmA9u0Dm)
 
 ## 1. **Нейро-помощник в роли главного сварщика.**
 
